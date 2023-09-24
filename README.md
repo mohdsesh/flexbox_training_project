@@ -1,2 +1,2 @@
-https://github.com/mohdsesh/flexbox_training_project.git
+https://mohdsesh.github.io/flexbox_training_project/
  
